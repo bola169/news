@@ -1,0 +1,10 @@
+<!-- Jika belum ada, buat sitemap.xml di root -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://bola169.github.io/news/Kisah-Sukses-Menang-Mix-Parlay-500-Juta-Dari-Pengamen-ke-Pengusaha.html</loc>
+    <lastmod>2023-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
